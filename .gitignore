@@ -1,0 +1,5 @@
+*.so
+*.dll
+.cache/
+.tmp/
+__pycache__/
